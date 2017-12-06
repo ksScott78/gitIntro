@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a conflict of merges 
  and now it's fixed
+=======
+This is a merge conflict
+>>>>>>> merge-target
